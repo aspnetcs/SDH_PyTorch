@@ -1,5 +1,12 @@
 # Supervised Discrete Hashing
 
+# Paper
+http://arxiv.org/pdf/1508.07148.pdf
+
+# Reference
+Shen F, Shen C, Wei L, et al. Supervised Discrete Hashing[C]// Computer Vision & Pattern Recognition. 2015.
+
+
 ## REQUIREMENTS
 `pip install -r requirements.txt`
 
